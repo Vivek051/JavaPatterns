@@ -1,5 +1,4 @@
 public class ptrn {
-
 	public static void main(String[] args) {
 		 for(int v=1; v<=5; v++) {
 			  for( int s=1; s<=5; s++) {
