@@ -1,5 +1,3 @@
-package ptrn8;
-
 public class ptrn {
 
 	public static void main(String[] args) {
